@@ -16,6 +16,7 @@
 ## Client
 
 * [Notify](client/notify.md)
+* [TextUI](client/textui.md)
 * [DrawText](client/drawtext.md)
 
 ## Server
