@@ -17,6 +17,8 @@
 
 * [Notify](client/notify.md)
 * [TextUI](client/textui.md)
+* [Progress](client/progress.md)
+* [Context Menu](client/context.md)
 * [DrawText](client/drawtext.md)
 
 ## Server
